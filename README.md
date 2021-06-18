@@ -1,6 +1,6 @@
 # FroyoSwap Factory
 
-In-depth documentation on PancakeSwap is available at [docs.froyoswap.com](https://docs.froyoswap.com/).
+In-depth documentation on PancakeSwap is available at [docs.froyoswap.org](https://docs.froyoswap.org/).
 
 # Local Development
 
