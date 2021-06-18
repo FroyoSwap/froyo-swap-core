@@ -1,7 +1,7 @@
 {
   "name": "@froyoswap-libs/froyo-swap-core",
   "description": "Core contracts for the froyo protocol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://froyoswap.org",
   "repository": {
     "type": "git",
